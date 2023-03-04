@@ -19,4 +19,8 @@ _________________________________
 
   Must Know Concepts 
 _____________________________________
+* Disclaimer: The registry is filled with hexadecimal numbers, and if not understood, it will not be clear.
+
+  Security Identify
+__________________________________________
 * 
