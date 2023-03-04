@@ -23,4 +23,19 @@ _____________________________________
 
   Security Identify
 __________________________________________
-* 
+*  Computer accounts, user accounts, groups, and other security-related objects are security principles.
+*  Security Identifiers (SIDs) 
+       - It uniquely identify security principles. Each time Windows and Active Directory create a security principle, they generate a SID for it.
+*  The Windows Local Security Authority (LSA) 
+       - It generates SIDs for local security principles and then stores them in the local security database.
+* The Domain Security Authority ( DSA ) 
+       - It generates SIDs for domain security principles and then stores them in Active Direc-tory.
+
+Disclaimer: 
+ SIDs are unique within their scope. Every local security principle’s SID is unique on the computer, 
+and every domain security principle’s SID is unique within any domain in the enterprise.
+Windows and Active Directory never reuse a SID, even if they delete the security principle to which that SID belonged. 
+Thus, if you delete an account and then add it back, the account gets a new SID.
+
+
+
