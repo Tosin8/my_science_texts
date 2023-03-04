@@ -1,2 +1,17 @@
 PART 1 - REGISTRY OVERVIEW
   Chapter One - Leaning the basics 
+
+  Heart and Souls of windows
+____________________________________________
+* Windows stores configuration data in the registry. The registry is a hierarchical data-base, which can be described as a central repository for configuration data or as a configuration database.
+* A hierar-chical database’s characteristics make it ideally suited for storing configuration data. 
+* You can't do nothing in windows without access to the registry. Every application being used looks for it's settings in the registry. 
+* Registry is also called the systems heart and soul, the registry by its very nature allows complex relationships among different parts of Windows, appli-cations, and the user interface.
+
+  Power Users 
+________________________________
+* The better way is to learn more about Windows is to figure out how and where it stores settings. 
+
+  For IT professionals 
+_________________________________
+* 
