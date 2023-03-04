@@ -14,4 +14,5 @@ ________________________________
 
   For IT professionals 
 _________________________________
-* 
+* An indirect but important benefit of the registry for IT professionals is application compatibility.
+* Microsoft defines standards for the locations in which different types of settings belong in the registry.
