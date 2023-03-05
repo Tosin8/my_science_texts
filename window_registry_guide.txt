@@ -37,5 +37,11 @@ and every domain security principle’s SID is unique within any domain in the e
 Windows and Active Directory never reuse a SID, even if they delete the security principle to which that SID belonged. 
 Thus, if you delete an account and then add it back, the account gets a new SID.
 
-
+Registry Structure - 
+ Root Keys: 
+  - HKEY_CLASSES_ROOT 
+  - HKEY_CURRENT_USER
+  - HKEY_LOCAL_MACHINE
+  - HKEY_USERS
+  - HKEY_CURRENT_CONFIG
 
