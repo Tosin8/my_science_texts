@@ -45,3 +45,7 @@ Registry Structure -
   - (Name) HKEY_USERS (abbreviation) HKU
   - (Name) HKEY_CURRENT_CONFIG (abbreviation) HKCC  
 
+Values
+ - A value's name is similar to a file's name. 
+ - A value's type is similar to a file's extension.
+ - A values' data is similar to the file's acutal content. 
