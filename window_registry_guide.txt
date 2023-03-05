@@ -56,3 +56,6 @@ Values
 
 Types 
   Windows supprt the following types of data in the registry, REG_BINARY, REG_DWORD and REG_SZ account for the vast majority of all the settings in the registry. 
+  
+   - REG_BINARY: binary data. Registry editor displays binary data in hexadecimal notation. 
+   - REG_DWORD: double word values. 
