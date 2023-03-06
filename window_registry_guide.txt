@@ -61,4 +61,13 @@ Types
    - REG_DWORD: double word values.
    - REG_DWORD_BIG_ENDIAN: double word values with the most significant bytes stored first in memory. The order of the bytes is the opposite of the order in which REG_DWORD stores them. 
    - REG_DWORD_LITTLE_ENDIAN: double word values with the least significant byes stored first in memory. 
+   - REG_EXPAND_SZ
+   
+ 
+ HKEY_USERS
+ It consists at least of 3 subkeys: 
+  - .DEFAULT: containing the per user settings that windows uses to display the desktop before any user logs on to the computer. 
+  - SID: being the security identifier of the console user , contains per user settings. 
+  - SID_Classes, where SID is the security identify of the console user, containing per user class registrations and file associations. 
+  
    
