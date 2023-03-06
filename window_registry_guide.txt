@@ -70,4 +70,4 @@ Types
   - SID: being the security identifier of the console user , contains per user settings. 
   - SID_Classes, where SID is the security identify of the console user, containing per user class registrations and file associations. 
   
-   
+  HKEY_LOCAL_MACHINE
