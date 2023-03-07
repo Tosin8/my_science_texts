@@ -85,3 +85,9 @@ Running Regedit
  
 Overview
 _________________________
+ * Regedit is still a simple program with a straightforward user inter-face. Its few menus are simple.
+ It has a status bar that displays the name of the current key and Its window contains two panes, split by a divider that you can drag left or right to change the size of both panes.
+ * Regedit saves its settings every time it's being closed. The next time being started,the window will open to its last position, and the window and panes will be the same size.
+
+Editing the registry
+______________________
