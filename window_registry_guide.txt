@@ -75,4 +75,8 @@ Types
 
 __________________________
 Chapter 2 : Using registry editor
+ * Registry Editor is the tool been used to edit the registry directly. Registry is being changed every time user log on to the computer,
+ and it also been done  indirectly through Control Panel or the Run dialog box, which updates the registry’s list of programs that's been run recently.
+ * With Registry Editor,  settings are being affected without the help of a user inter-face. 
 
+Running Regedit
