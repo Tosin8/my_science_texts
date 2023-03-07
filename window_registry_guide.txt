@@ -80,3 +80,8 @@ Chapter 2 : Using registry editor
  * With Registry Editor,  settings are being affected without the help of a user inter-face. 
 
 Running Regedit
+ Note : Regedit and Registry Editor are the same time. 
+* Using group policy can be used to disable the policy from running. 
+ 
+Overview
+_________________________
