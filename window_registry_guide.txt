@@ -71,3 +71,8 @@ Types
   - SID_Classes, where SID is the security identify of the console user, containing per user class registrations and file associations. 
   
   HKEY_LOCAL_MACHINE
+
+
+__________________________
+Chapter 2 : Using registry editor
+
