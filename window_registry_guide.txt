@@ -95,3 +95,9 @@ ______________________
 
 Chapter 3: backing up the registry
 ______________________________________
+ Editing the registry safely : Using 3 techniques to make backup: 
+* Making backup copies of values, which you can quickly restore in the registry. Backup also document the changes being made. 
+* The second is exporting the part of the registry in which you’re working to a REG file but a REG file has the advantage of being readable, and this is the method that most people use.
+*  The third method, and my first choice when making significant changes, is exporting branches to hive files. This method is the most accurate way to back up and restore parts of the registry.
+ Using any of these methods, you’ll be able to recover from most pitfalls.
+
