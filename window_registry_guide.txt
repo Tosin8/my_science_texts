@@ -101,3 +101,6 @@ ______________________________________
 *  The third method, and my first choice when making significant changes, is exporting branches to hive files. This method is the most accurate way to back up and restore parts of the registry.
  Using any of these methods, you’ll be able to recover from most pitfalls.
 
+Chapter 4 : hacking the registry
+
+
