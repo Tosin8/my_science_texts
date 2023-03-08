@@ -1,4 +1,4 @@
-PART 1 - REGISTRY OVERVIEW
+ PART 1 - REGISTRY OVERVIEW
   Chapter One - Leaning the basics 
 
   Heart and Souls of windows
@@ -91,3 +91,7 @@ _________________________
 
 Editing the registry
 ______________________
+
+
+Chapter 3: backing up the registry
+______________________________________
