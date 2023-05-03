@@ -5,7 +5,15 @@ Part One: An overview of computer systems
 
 Preface
 _________________
- 
+*Computer architecture is about the structure and operation of digital computers.
+ Computer architecture is concerned with the operational methods of the hardware; 
+with the services provided by operating system software; with the acquisition, 
+processing, storage, and output of data;
+and with the interaction between computers.
 
-Chapter One: Computer and system
+There is a tendency for people in information systems and technology
+ to neglect a study of computer architecture. 
+
 _________________________________________
+ The combination of hardware, software, communication,
+ and data make up the architecture of a computer system.
