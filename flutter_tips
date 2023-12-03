@@ -1,2 +1,5 @@
 
 1. THE ARCHITECTURE OF FLUTTER APPLICATION
+  a. In flutter, everything is a widget. 
+  b. Gestures: GestureDectector is an invisible widget with the ability to capture user interactions such as tapping, dragging, etc. 
+  c. Concept of State: Flutter widgets support state maintainance by providing a special widget - statefulwidget. Widget needs to be derived from StatefulWidget widget to support state maintainance. Flutter widgets are REACTIVE in native. 
