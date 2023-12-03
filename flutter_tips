@@ -1,5 +1,8 @@
 
 1. THE ARCHITECTURE OF FLUTTER APPLICATION
-  a. In flutter, everything is a widget. 
+  a. In Flutter, everything is a widget. 
   b. Gestures: GestureDectector is an invisible widget with the ability to capture user interactions such as tapping, dragging, etc. 
-  c. Concept of State: Flutter widgets support state maintainance by providing a special widget - statefulwidget. Widget needs to be derived from StatefulWidget widget to support state maintainance. Flutter widgets are REACTIVE in native. 
+  c. Concept of State: Flutter widgets support state maintenance by providing a special widget, statefulwidget. The widget needs to be derived from the StatefulWidget widget to support state maintenance. Flutter widgets are REACTIVE in native. 
+"Reactive programming is a programming paradigm that is widely used in mobile applications. In classical programming, when we want some kind of information, we actively request it. This can be from a database, an API, or a sensor. What we do is ask the data source for the specific information that we need. 
+In Flutter, reactive programming is implemented using Streams and Observers. A Stream is the constant stream of data that is changing. It can be the data from the database or a server every time a certain value is modified, or a sensor when it updates the value. An Observer is the component that subscribes to the Stream and receives change notifications from the stream. The Observer subscribes when it wants to get data and can unsubscribe when it’s not interested in the information."
+  d. Layers: The most important concept of flutter framework is that the framework is grouped into multiple category in terms of complexity and clearly arranged in layers of decreasing complexity. 
