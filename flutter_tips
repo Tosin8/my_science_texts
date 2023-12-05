@@ -10,4 +10,8 @@ In Flutter, reactive programming is implemented using Streams and Observers. A S
 FLUTTER STATE MGT BASICS - CODE WITH ANDREA
  * State : whatever data you need in order to rebuild UI at any moment in time, while UI is how the application looks like. 
 
-There are two kinds of state: local ( sometimes, state is self contained inside a single widget ) and global/shared state. 
+There are two kinds of state: 
+    - local or ephemeral state ( a state is self-contained inside a single widget ) and 
+    - global/shared state. Example: using InheritedWidget to share data across widget prefered to use Provider instead. 
+         * Flutter using ChangeNotifier and ValueNotifier to store state outside the widget. 
+         * StreamBuilder and FutureBuilder : useful with asynchronous APIs , and building this thing requires: 4 states - which are: data, no data, error and loading. 
