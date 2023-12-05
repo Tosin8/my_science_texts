@@ -9,3 +9,5 @@ In Flutter, reactive programming is implemented using Streams and Observers. A S
 
 FLUTTER STATE MGT BASICS - CODE WITH ANDREA
  * State : whatever data you need in order to rebuild UI at any moment in time, while UI is how the application looks like. 
+
+There are two kinds of state: local ( sometimes, state is self contained inside a single widget ) and global/shared state. 
