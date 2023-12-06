@@ -7,7 +7,7 @@
 In Flutter, reactive programming is implemented using Streams and Observers. A Stream is the constant stream of data that is changing. It can be the data from the database or a server every time a certain value is modified, or a sensor when it updates the value. An Observer is the component that subscribes to the Stream and receives change notifications from the stream. The Observer subscribes when it wants to get data and can unsubscribe when it’s not interested in the information."
   d. Layers: The most important concept of the Flutter framework is that it is grouped into multiple categories in terms of complexity and clearly arranged in layers of decreasing complexity. 
 
-FLUTTER STATE MGT BASICS - CODE WITH ANDREA
+FLUTTER STATE MGT BASICS: CODE WITH ANDREA
  * State : whatever data you need in order to rebuild UI at any moment in time, while UI is how the application looks like. 
 
 There are two kinds of state: 
