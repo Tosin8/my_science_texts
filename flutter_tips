@@ -16,3 +16,6 @@ There are two kinds of state:
          * Flutter using ChangeNotifier and ValueNotifier to store state outside the widget. 
          * StreamBuilder and FutureBuilder : useful with asynchronous APIs , and building this thing requires: 
                  4 states - which are: data, no data, error and loading. 
+
+Flutter – Animation
+
