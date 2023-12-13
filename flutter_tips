@@ -18,4 +18,9 @@ There are two kinds of state:
                  4 states - which are: data, no data, error and loading. 
 
 Flutter – Animation
-
+The aspect of animations are: 
+1. Animation have two distinct values
+2. the intermediate values may be linear or non linear in nature and can be configued
+3. The duration of the animation process affects the speed of the animation
+4. The ability to control the animation process
+5. The ability to provide values required  at every frame to render the images. 
