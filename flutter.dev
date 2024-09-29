@@ -1,1 +1,12 @@
 Flutter architectural overview
+
+overview is divided into a number of sections:
+
+* The layer model: The pieces from which Flutter is constructed.
+* Reactive user interfaces: A core concept for Flutter user interface development.
+* An introduction to widgets: The fundamental building blocks of Flutter user interfaces.
+* The rendering process: How Flutter turns UI code into pixels.
+* An overview of the platform embedders: The code that lets mobile and desktop OSes execute Flutter apps.
+* Integrating Flutter with other code: Information about different techniques available to Flutter apps.
+* Support for the web: Concluding remarks about the characteristics of Flutter in a browser environment.
+
