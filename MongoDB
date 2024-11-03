@@ -1,3 +1,11 @@
 INTRODUCTION.
 
+NOSQL is a non-relational database that uses key-value pairs to store and retrieve data, unlike a relational database, which stores data in rows and columns. 
 
+A Non-Relational Database is a collection of unstructured and semi-detached items that do not store data in tabular form. 
+
+Various types of NoSql databases? 
+1. Key Value: USAGE: Briskly changing data and high availability. Examples are: Riak, Redis. 
+2. Column Based: USAGE: Read/Write extensions. Examples: HBase, Cassandra etc. 
+3. Document Database. USAGE: Working with occasionally changing consistent data. Example: Couchbase, MongoDb.
+4. Graph Databae: USAGE: Spatial data storage. Example: Neo4j, Big data. 
