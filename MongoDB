@@ -4,15 +4,24 @@ NOSQL is a non-relational database that uses key-value pairs to store and retrie
 
 A Non-Relational Database is a collection of unstructured and semi-detached items that do not store data in tabular form. 
 
-Various types of NoSql databases? 
-1. Key Value: USAGE: Briskly changing data and high availability. Examples are: Riak, Redis. 
+Various types of NoSQL databases? 
+1. Key Value: USAGE: Briskly changing data and high availability. Examples are Riak, Redis. 
 2. Column Based: USAGE: Read/Write extensions. Examples: HBase, Cassandra etc. 
-3. Document Database. USAGE: Working with occasionally changing consistent data. Example: Couchbase, MongoDb.
+3. Document Database. USAGE: Working with occasionally changing consistent data. Example: Couchbase, MongoDB.
 4. Graph Databae: USAGE: Spatial data storage. Example: Neo4j, Big data. 
 
 WHAT IS MONGODB? 
 MongoDB is a NoSQL database that stores large volumes of data in the form of documents. It removes the concept of rows of conventional and relational data models by introducing documents. 
-It stores data in form of document in JSON likewise others like MsQL that stores data in tables. 
+It stores data in the form of a document in JSON likewise others like MsQL that stores data in tables. 
 It stores data in COLLECTION instead of TABLES. 
 
 
+Why MondoDB? 
+Preferred due to its high volume of data. 
+1. Open source database
+2. Easy to use: Robust, highly scalable and powerful way of storing data in comparison to traditional database models. 
+3. Highly Flexible: Allows to store and work on different data types in one document. 
+4. Powerful Query language
+5. Reliable indexing
+6. Flexible schema: designed that allows to meet the ever-changing condition characteristics of Big Data applications
+7. High performance: it offers incredible features like on-demand scaling, real-time resources etc to guarantee high performance of the application. 
