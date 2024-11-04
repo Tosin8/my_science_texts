@@ -26,3 +26,11 @@ Preferred due to its high volume of data.
 5. Reliable indexing
 6. Flexible schema: designed that allows to meet the ever-changing condition characteristics of Big Data applications
 7. High performance: it offers incredible features like on-demand scaling, real-time resources etc to guarantee high performance of the application. 
+
+Ref: Roadmap.sh
+When to use MongoDB
+1. For big data
+2. Real Time Analytics: offering aggregation framework and indexing capabilities to help analyze and process data in real-time. 
+3. Content Management: being able to handle content types, making it a suitable choice for content management systems. 
+4. Internet of Things application: MongoDB captures and store data from a large number of devices and sensors, proving beneficial in IOT scenarios. 
+5. Mobile application: it provides a flexible data model - an essential requirement for the dynamic nature and varying data types of mobile applications. 
