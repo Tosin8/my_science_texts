@@ -34,3 +34,11 @@ When to use MongoDB
 3. Content Management: being able to handle content types, making it a suitable choice for content management systems. 
 4. Internet of Things application: MongoDB captures and store data from a large number of devices and sensors, proving beneficial in IOT scenarios. 
 5. Mobile application: it provides a flexible data model - an essential requirement for the dynamic nature and varying data types of mobile applications. 
+
+MongoDB Basics
+1. MongoDb is a NoSQl database system that stores data in flexible json like documents, making it suitable for working with large scale and unstructured data. 
+* Database: stores all collections within a MongoDB instance 
+* Collection: A group of related documents, similar to a table in a relational database. 
+* Document: a single recored within a collection which is stored as BSON ( Binary Json) format. 
+* Field: a key-value pair within a document
+* _id: a unique identifier automatically generated for each document within a collection. 
