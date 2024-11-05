@@ -42,3 +42,21 @@ MongoDB Basics
 * Document: a single recored within a collection which is stored as BSON ( Binary Json) format. 
 * Field: a key-value pair within a document
 * _id: a unique identifier automatically generated for each document within a collection. 
+
+2. Basic Operations
+* Insert: To insert a single document, use db.collection.insertOne(). For inserting multiple documents, use db.collection.insertMany()
+* Find: Fetch documents from a collection using db.collection.find() and filter the results with query criteria like {FIELD: VALUE}. To fetch only one document, using db.collection.findOne()
+* Update: Updating fields or entire documents by using update operators like $SET and $UNSET with db.collection.updateOne() or db.collection.updateMany()
+* Delete: Remove documents from a collection using db.collection.deleteOne() or db.collection.deleteMany() with query criteria. 
+* Drop: permanently delete a collection or a db using db.collection.drop() and db.dropDatabase(). 
+
+3. Indexes and Aggregations. 
+* Indexes: improving the performance of searches by creaing indexes on fields within a collection using db.collection.createIndex() or build compound indexes for querying multiple fields. 
+* Aggregations: performing complex data processing tasks like filtering, grouping , transforming and sorting using aggregation operation like $match, $group, $project and $sort. 
+
+4. Data Modeling
+MongoDB's flexible schema allows for various data modeling techniques which are: 
+* Embedded documents: it store related data together in a single document, which is suitable for one to one or one to few relationship
+* Normalization: store related data in separate documents with references btw them. 
+* Hybrid Approach: combine embedded documents and normalization to balance performance and storage needs. 
+
