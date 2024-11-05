@@ -62,4 +62,11 @@ MongoDB's flexible schema allows for various data modeling techniques which are:
 
 
 WHAT IS MONGOBD ATLAS. 
+A fully managed cloud based database service built and maintained by MongoDB. The atlas platform being available on major cloud provider e.g. AWS, Azure and Google Cloud Platform allowing developers to deploy, manage, and scale their MongoDB cluseters in a seemless and efficient way. 
+
+Features are: 
+- Database as a Service: Atlas taking care of database-related operations like backups, monitoring, scaling and security allowing developers to focus on their application logic. 
+- Security: offering built-in security features. 
+- Performance: providing tools for monitoring and optimizing the performance of the DB. 
+
 
