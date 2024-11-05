@@ -60,3 +60,6 @@ MongoDB's flexible schema allows for various data modeling techniques which are:
 * Normalization: store related data in separate documents with references btw them. 
 * Hybrid Approach: combine embedded documents and normalization to balance performance and storage needs. 
 
+
+WHAT IS MONGOBD ATLAS. 
+
