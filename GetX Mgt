@@ -1,1 +1,13 @@
 
+The 3 pillars of GetX
+1. State management 
+    Divided into two which are: 
+    * Simple State Management
+    * Reactive State management. 
+2. Route management
+3. Dependency management
+
+The 3 GetX Utils
+1. internationalization
+2. Themes
+3. Popups, Bottom Sheets, Dialogs.. (without context ).
