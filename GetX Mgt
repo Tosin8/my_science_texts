@@ -7,6 +7,12 @@ The 3 pillars of GetX
         - Same like SetState()
         - Use with GetBuilder()
     * Reactive State management. 
+        - Complicated in other state mgt. 
+        - Using Streams
+        - Stream builders for each variable 
+        - New class for each state. 
+        In getx, using these 2 options: 
+        - Getx() Widget and Obx Widget. 
 2. Route management
 3. Dependency management
 
