@@ -2,7 +2,10 @@
 The 3 pillars of GetX
 1. State management 
     Divided into two which are: 
-    * Simple State Management
+    * Simple State Management: 
+        - Simple and Easy 
+        - Same like SetState()
+        - Use with GetBuilder()
     * Reactive State management. 
 2. Route management
 3. Dependency management
