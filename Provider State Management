@@ -35,3 +35,4 @@ A function that disposes an object of type T.
 A function that returns true when the update from previous to current should notify listeners, if any.
 
 
+
