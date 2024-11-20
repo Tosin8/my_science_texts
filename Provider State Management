@@ -1,6 +1,37 @@
 ref: Roadmap.sh
 
+Provider is a wrapper around inheritedWidget ( base class for widgets that efficiently propagates information down the tree) to make them easier to use and more reusable. 
 
 
+PROVIDER LIBRARY: 
+Classes. 
+1. ChangeNotifierProvider<T extends ChangeNotifier?>
+Listens to a ChangeNotifier, expose it to its descendants and rebuilds dependents whenever ChangeNotifier.notifyListeners is called.
+2. Consumer<T>
+Obtains Provider<T> from its ancestors and passes its value to builder.
+3. InheritedContext<T>
+A BuildContext associated to an InheritedProvider.
+4. InheritedProvider<T>
+A generic implementation of an InheritedWidget.
+5. MultiProvider
+A provider that merges multiple providers into a single linear widget tree. It is used to improve readability and reduce boilerplate code of having to nest multiple layers of providers.
+6. Provider<T>
+A Provider that manages the lifecycle of the value it provides by delegating to a pair of Create and Dispose.
+7. StreamProvider<T>
+Listens to a Stream and exposes its content to child and descendants.
+8. ValueListenableProvider<T>
+Listens to a ValueListenable and exposes its current value.
+
+Exceptions / Errors
+1. ProviderNotFoundException
+The error that will be thrown if Provider.of fails to find a Provider as an ancestor of the BuildContext used.
+2. ProviderNullException
+Called Provider.of<T> instead of Provider.of<T?> but the provider returned null.
+
+Typedefs
+1. Dispose<T> = void Function(BuildContext context, T value)
+A function that disposes an object of type T.
+2. UpdateShouldNotify<T> = bool Function(T previous, T current)
+A function that returns true when the update from previous to current should notify listeners, if any.
 
 
