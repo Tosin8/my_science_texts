@@ -44,7 +44,11 @@ The only code that is specific to ChangeNotifier is the call to notifyListeners(
 ChangeNotifier is part of flutter:foundation and doesn't depend on any higher-level classes in Flutter.
 
 
- - ChangeNotifierProvider: 
- - Consumer
+ - ChangeNotifierProvider: ChangeNotifierProvider is the widget that provides an instance of a ChangeNotifier to its descendants. It comes from the provider package.
+If you want to provide more than one class, you can use MultiProvider.
+We already know where to put ChangeNotifierProvider: above the widgets that need to access it. 
+
+
+ - Consumer: Now that CartModel is provided to widgets in our app through the ChangeNotifierProvider declaration at the top, we can start using it.
 
 
