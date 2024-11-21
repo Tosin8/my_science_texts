@@ -35,5 +35,16 @@ A function that disposes an object of type T.
 A function that returns true when the update from previous to current should notify listeners, if any.
 
 
+The need to understand 3 concepts:
+
+ - ChangeNotifier: ChangeNotifier is a simple class included in the Flutter SDK which provides change notifications to its listeners. In other words, if something is a ChangeNotifier, you can subscribe to its changes. (It is a form of Observable, for those familiar with the term.)
+In provider, ChangeNotifier is one way to encapsulate your application state. For very simple apps, you get by with a single ChangeNotifier. In complex ones, you'll have several models, and therefore several ChangeNotifiers. (You don't need to use ChangeNotifier with provider at all, but it's an easy class to work with.)
+The only code that is specific to ChangeNotifier is the call to notifyListeners(). Call this method any time the model changes in a way that might change your app's UI. Everything else in CartModel is the model itself and its business logic.
+
+ChangeNotifier is part of flutter:foundation and doesn't depend on any higher-level classes in Flutter.
+
+
+ - ChangeNotifierProvider: 
+ - Consumer
 
 
