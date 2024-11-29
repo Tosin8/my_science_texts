@@ -20,5 +20,9 @@ A. State Management.
 - It consists of both an Ephemeral State and an App State. 
 The ephemeral state is the state that can be neatly contained in a single widget. Examples are: Current page in a PageView, Current progress of a complex animation
 
-
+The app state: state being shared across many parts of the app. E.g: 
+- User preferences
+- Login info
+- Notifications in a social networking app
+- The shopping cart in an ecommerce app etc. 
 
