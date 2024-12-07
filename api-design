@@ -4,3 +4,13 @@
 
 THE BASICS..........
 Application Programming Interfaces (APIs) are an integral part of modern development, allowing software applications to communicate and use functions from other software applications or services
+
+HTTP Versions in API Design
+___________________________________
+The versions specify how versions should respond to commands, which directly impacts how well an API can communicate with other software and systems. 
+
+HTTP Methods
+___________________
+It play a significant role in API design, defining the type of request a client can make to a server. 
+Common methods are: GET, POSt, PUT, DELETE and PATCH, allowing various interactions with API endpoints. 
+
