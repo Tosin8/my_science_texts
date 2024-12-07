@@ -14,3 +14,8 @@ ___________________
 It play a significant role in API design, defining the type of request a client can make to a server. 
 Common methods are: GET, POSt, PUT, DELETE and PATCH, allowing various interactions with API endpoints. 
 
+HTTP Status Codes
+_________________________
+They are essential part of API Design, providing important information about the result of a request made to a server. 
+eg. 404 - signifies that a request resource could not be found on the server, 200 - for successful HTTP request. 
+
