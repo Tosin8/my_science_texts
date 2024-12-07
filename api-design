@@ -23,3 +23,8 @@ ________________________
 HTTP Headers 
 
 HTTP Headers play a crucial role in API Design as they provide essential information between the client and server regarding the data to be exchanged. 
+
+Cookies
+_______________
+Cookies play an instrumental role in the field of API (Application Programming Interface) design. Essentially, cookies are small bits of data stored on a user’s browser that enables stateful HTTP sessions, by storing pertinent information between server communications. 
+
