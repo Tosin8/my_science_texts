@@ -11,13 +11,13 @@ The versions specify how versions should respond to commands, which directly imp
 
 HTTP Methods
 ___________________
-It play a significant role in API design, defining the type of request a client can make to a server. 
+It plays a significant role in API design, defining the type of request a client can make to a server. 
 Common methods are: GET, POSt, PUT, DELETE and PATCH, allowing various interactions with API endpoints. 
 
 HTTP Status Codes
 _________________________
 They are an essential part of API Design, providing important information about the result of a request made to a server. 
-eg. 404 - signifies that a request resource could not be found on the server, 200 - for successful HTTP request. 
+eg. 404 - signifies that a request resource could not be found on the server, 200 - for a successful HTTP request. 
 
 ________________________
 HTTP Headers 
@@ -27,4 +27,21 @@ HTTP Headers play a crucial role in API Design as they provide essential informa
 Cookies
 _______________
 Cookies play an instrumental role in the field of API (Application Programming Interface) design. Essentially, cookies are small bits of data stored on a user’s browser that enables stateful HTTP sessions, by storing pertinent information between server communications. 
+
+CORS under API design
+CROSS-ORIGIN RESOURCE SHARING - It's a mechanism that uses HTTP headers to tell browsers to give a web application running at one origin, access to selected resources from a different origin. 
+By default, web browsers prohibit web pages from making requests to a different domain than the one the web page came from. 
+
+CORS IS THE GUIDELINE THAT LETS YOU CONFIGURE A SET OF RULES ON THE SERVER TO DEFINE WHICH TYPES OF CROSS-DOMAIN REQUESTS ARE ALLOWED, PROVIDING MUCH-NEEDED FLEXIBILITY WITHOUT COMPROMISING SECURITY. 
+Understanding CORS is crucial in designing APIs that ensure safe and effective inter-domain communication. 
+
+HTTP Caching in API Design 
+__________________________________
+Caching is a key apsect of API design which involves storing copies of responses to HTTP requests to speed up future requests. 
+When an API receives the same request multiple times, instead of processing each request separately, it can use a previously stored response, thereby improving performance and efficiency. The cache is governed by headers on the HTTP requests and responses. Understanding and implementing HTTP caching in API design can drastically reduce latency, network traffic and improve the speed of an API.
+
+Difference between Cookie and Cache
+_______________________________________
+Cookies are typically stored on the device's hard drive. These encrypted files are accessed using the web browser that stored them or dedicated web applications. Cache files are stored in the computer's RAM (Random Access Memory) for faster access, providing near-instantaneous retrieval of data in nanoseconds. 
+
 
