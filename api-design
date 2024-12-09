@@ -44,4 +44,7 @@ Difference between Cookie and Cache
 _______________________________________
 Cookies are typically stored on the device's hard drive. These encrypted files are accessed using the web browser that stored them or dedicated web applications. Cache files are stored in the computer's RAM (Random Access Memory) for faster access, providing near-instantaneous retrieval of data in nanoseconds. 
 
-
+Understand TCP/IP
+______________________________
+TCP: Transmissin Control Prootocol
+IP: Internet Protocol
