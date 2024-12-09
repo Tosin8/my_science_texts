@@ -55,3 +55,19 @@ Basics of DNS
 _____________________________
 Domain Name System: It plays a fundamental role in the way APIs function, acting as the internet's equivalent of a phone book, interpreting human-friendly hostnames into IP addresses that APIs needs for communication. 
 knowledge about DNS can significantly aid in troubleshooting connectivity issues, ensuring secure connections, and optimizing API architecture with more efficient calls.
+
+REST Principles. 
+_________________________________-
+REST: Representational State Transfer - it defines a set of rules and conventions through which systems communicate over a network. 
+Key Characteristics are: 
+- Statelessness
+- Client-Server Communication
+- Cacheability
+- Uniform Interface. 
+The principles revolve around resources and their manipulation to achieve desired outcomes, making developers to ensure that their API design in line with web standards, improving interoperablity across diiffreent systems. 
+
+URI Design in API
+_______________________________
+
+URI - Uniform Resource Identifier, a string of characters used to identify a name or a resource on the internet. It ensures that related resources are grouped together in a logical manner and can greately impact the usability and maintainability of an API. 
+
