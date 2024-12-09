@@ -46,7 +46,12 @@ Cookies are typically stored on the device's hard drive. These encrypted files a
 
 Understand TCP/IP
 ______________________________
-TCP: Transmissin Control Prootocol
+TCP: Transmission Control Prootocol
 IP: Internet Protocol
 
-TCP/IP, standing for Transmission Control Protocol/Internet Protocol, is the suite of communications protocols used to connect hosts on the Internet. It provides ordered, error-checked delivery of streams of bytes from a program on one computer to another program on another computer. If you want to understand how APIs communicate over networks, knowing the fundamental working of TCP/IP is indispensable.
+TCP/IP, standing for Transmission Control Protocol/Internet Protocol, is the suite of communications protocols used to connect hosts on the Internet. It provides ordered, error-checked delivery of streams of bytes from a program on one computer to another program on another computer. If you want to understand how APIs communicate over networks, knowing the fundamental workings of TCP/IP is indispensable.
+
+Basics of DNS
+_____________________________
+Domain Name System: It plays a fundamental role in the way APIs function, acting as the internet's equivalent of a phone book, interpreting human-friendly hostnames into IP addresses that APIs needs for communication. 
+knowledge about DNS can significantly aid in troubleshooting connectivity issues, ensuring secure connections, and optimizing API architecture with more efficient calls.
