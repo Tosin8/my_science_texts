@@ -80,3 +80,8 @@ Handling CRUD Operations in API Design
 _____________________________________________________
 CRUD operations: Create, Read, Update and Delete Operations. 
 
+
+Building JSON/ RESTful APIs
+____________________________________-
+Building JSON/RESTful APIs involves designing and implementing APIs taht adhere to othe architectural constraints of REST.
+These APIs use JSON (JavaScript Object Notation) as a format for information interchange, due to its lightweight, easy-to-understand, and universally accepted nature. A well-designed RESTful API, utilizing JSON, is key in developing applications that are scalable, maintainable, and easily integrated with other systems. This design approach enables the resources on a server to be accessed and manipulated using standard HTTP protocols, facilitating communication between different services and systems.
