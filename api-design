@@ -71,3 +71,8 @@ _______________________________
 
 URI - Uniform Resource Identifier, a string of characters used to identify a name or a resource on the internet. It ensures that related resources are grouped together in a logical manner and can greately impact the usability and maintainability of an API. 
 
+Version Strategies
+________________________________
+As the APIs evolve over time to meet the new business requirements and functionality enhancements, it is crucial to manage the changes in a way that doesn't break the existing client applications. 
+
+
