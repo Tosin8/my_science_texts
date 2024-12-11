@@ -64,7 +64,7 @@ Key Characteristics are:
 - Client-Server Communication
 - Cacheability
 - Uniform Interface. 
-The principles revolve around resources and their manipulation to achieve desired outcomes, making developers to ensure that their API design in line with web standards, improving interoperablity across diiffreent systems. 
+The principles revolve around resources and their manipulation to achieve desired outcomes, making developers to ensure that their API design in line with web standards, and improving interoperability across different systems. 
 
 URI Design in API
 _______________________________
@@ -85,3 +85,8 @@ Building JSON/ RESTful APIs
 ____________________________________-
 Building JSON/RESTful APIs involves designing and implementing APIs taht adhere to othe architectural constraints of REST.
 These APIs use JSON (JavaScript Object Notation) as a format for information interchange, due to its lightweight, easy-to-understand, and universally accepted nature. A well-designed RESTful API, utilizing JSON, is key in developing applications that are scalable, maintainable, and easily integrated with other systems. This design approach enables the resources on a server to be accessed and manipulated using standard HTTP protocols, facilitating communication between different services and systems.
+
+
+Simple JSON APIs
+____________________________________--
+Simple JSON (JavaScript Object Notation) APIs are a popular form of API or “Application Programming Interface” which utilise JSON to exchange data between servers and web applications. 
