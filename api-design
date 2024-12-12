@@ -96,3 +96,6 @@ This method has gained prominence mainly for its simplicity, light weight, and e
 SOAP APIs
 ___________________________
 SOAP (Simple Object Access Protocol) APIs are a standard communication protocol system that permits programs that run on different operating systems (like Linux and Windows) to communicate using Hypertext Transfer Protocol (HTTP) and its Extensible Markup Language (XML). 
+
+GraphQL APIs
+
