@@ -106,5 +106,7 @@ Pagination is a crucial aspect of API design, providing a systematic approach to
 
 An effective API design should carefully consider pagination style, striving for a balance between ease of use, efficiency, and scalability.
 
+Rate Limiting in API Design
+_____________________________
 
 
