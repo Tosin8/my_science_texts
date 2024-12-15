@@ -109,4 +109,4 @@ An effective API design should carefully consider pagination style, striving for
 Rate Limiting in API Design
 _____________________________
 
-
+Rate Limiting is a critical aspect of API Design that dictates the number of API calls a client can make within a specified timeframe. This helps in managing resource allocation, preventing abuse of the API, and maintaining the overall health of the API system
