@@ -123,3 +123,5 @@ HATEOAS in API Design
 _________________________
 Hypertext As The Engine Of Application State (HATEOAS) is a key concept in the design of RESTful APIs (Application Programming Interfaces). It implies that the API delivers data as well as information about available interactions. 
 
+The principle of HATEOAS can enforce a more structured, standardized approach to API design and development.
+
