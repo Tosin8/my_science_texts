@@ -117,3 +117,9 @@ Proper rate limiting measures should be in place to ensure the API’s stability
 Idempotency in API Design
 ____________________________
 Idempotency in API design refers to the concept where multiple identical requests have the same effect as a single request. This means that no matter how many times a client sends the same request to the server, the server’s state stays the same after the first request.
+
+
+HATEOAS in API Design
+_________________________
+Hypertext As The Engine Of Application State (HATEOAS) is a key concept in the design of RESTful APIs (Application Programming Interfaces). It implies that the API delivers data as well as information about available interactions. 
+
