@@ -125,3 +125,7 @@ Hypertext As The Engine Of Application State (HATEOAS) is a key concept in the d
 
 The principle of HATEOAS can enforce a more structured, standardized approach to API design and development.
 
+Error Handling in API Design
+_______________________________
+Error Handling is a crucial aspect of API design that ensures the stability, usability, and reliability of the API in production. APIs are designed to help systems communicate with each other. However, there can be instances where these systems might encounter exceptions or errors. The process of predicting, catching, and managing these error occurrences is what we refer to as ‘Error Handling’.
+Configuring this appropriately provides a more robust and seamless communication experience, enabling developers to debug and rectify issue for efficiently.
