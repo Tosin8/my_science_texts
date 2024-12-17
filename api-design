@@ -205,5 +205,10 @@ API SECURITY
 ________________________
 API Security refers to the practices and products that are used to secure application programming interfaces (APIs). In the context of design, it is an essential component that helps ensure that a deployed API achieves its objectives in a safe and secure manner. This includes safeguarding the data, preventing unauthorized access, and protecting the system that hosts the API.
 
+API Performance
+_________________________
+API Performance refers to the efficiency and speed at which a developed API can execute tasks and communicate with other programs or software components. 
+
+his fundamental aspect can directly impact the responsiveness of an application, determining how quickly data can be exchanged, processed, and presented to the end-user.
 
 
