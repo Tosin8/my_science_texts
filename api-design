@@ -190,5 +190,16 @@ API Documentation Tools
 ___________________________________
 API Documentation Tools are instrumental in conveying the intricacies of API design to both technical developers and non-technical stakeholders. These tools help in creating comprehensive, easy-to-understand, and searchable documentation encompassing all the elements of an API such as its functions, classes, return types, arguments, and more.
 
+Common Vulnerabilities in API Design 
+_____________________________________
+API design is a critical component of modern software development, enabling various applications to communicate and share data. However, as the use of APIs expands, so does the potential for security vulnerabilities. Understanding common vulnerabilities in API design is crucial to protecting sensitive data and maintaining a secure system.
+
+Best Practices in API Design 
+_________________________________
+* Simplicity
+* Consistency
+* Security
+* Proper Docuomentation. 
+
 
 
