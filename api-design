@@ -128,4 +128,11 @@ The principle of HATEOAS can enforce a more structured, standardized approach to
 Error Handling in API Design
 _______________________________
 Error Handling is a crucial aspect of API design that ensures the stability, usability, and reliability of the API in production. APIs are designed to help systems communicate with each other. However, there can be instances where these systems might encounter exceptions or errors. The process of predicting, catching, and managing these error occurrences is what we refer to as ‘Error Handling’.
-Configuring this appropriately provides a more robust and seamless communication experience, enabling developers to debug and rectify issue for efficiently.
+Configuring this appropriately provides a more robust and seamless communication experience, enabling developers to debug and rectify issues for efficiently.
+
+
+GraphQL APIs
+____________________________
+It is an open source data query and manipulation language for APIs, and a runtime for executing those queries with existing data. 
+They are designed around a type system and enable the client application to precisely specify what data it needs from the server. This gives a lot of flexibility and efficiency, leading to fewer round trips to the server and significantly enhancing the performance of the client application. 
+
