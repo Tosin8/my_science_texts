@@ -211,4 +211,19 @@ API Performance refers to the efficiency and speed at which a developed API can 
 
 his fundamental aspect can directly impact the responsiveness of an application, determining how quickly data can be exchanged, processed, and presented to the end-user.
 
+UNIT TESTING IN API DESIGN 
+_______________________________
+Unit Testing, in the context of API design, refers to the process of testing the individual components or functions of an API independently to ensure that each part is working correctly. It is typically performed at the development stage. 
+
+Integration Testing in API Design
+______________________________________
+Integration testing is a critical aspect of API design. It is a level of software testing where individual units or components are combined and tested as a group. The main purpose of integration testing in API design is to expose faults and discrepancies in the interaction between integrated units. This testing approach ensures that the different parts of an API work together seamlessly, to deliver the necessary functionality and performance. 
+
+Functional Testing in API DEsign
+_____________________________________
+Functional testing in the context of API design involves validating the endpoints and key-value pairs of an API. It ensures the server response works as expected and assesses the functionality of the API and whether it is performing all the intended functions correctly.
+
+LOAD TESTING IN API DESIGN
+__________________________________
+Load testing is a crucial aspect of API design that ensures reliability, efficiency and performance under varying loads. It primarily focuses on identifying the maximum capacity of the API in terms of the volume of requests it can handle and its subsequent behavior when this threshold is reached or overloaded.
 
