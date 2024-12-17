@@ -149,3 +149,28 @@ JSON Web Token (JWT) in API Design
 _________________________________________
 JSON Web Tokens, or JWT, are a popular and secure method of transferring information between two parties in the domain of API design.
 URL-safe means of representing claims to be transferred between two parties, they play a vital role in security and authorization in modern APIs. By encoding these claims, the information can be verified and trusted with a digital signature - ensuring that the API end-points can handle requests in a secure and reliable way. JWT is a relatively lightweight and scalable method that brings improved authentication and information exchange processes in API design.
+
+Different API Styles
+_____________________________
+Commonly used API styles are: REST, SOAP, GraphQL and gRPC. 
+
+Authentication Methods: 
+______________________________
+They are: Basici Auth, Token Based Auth, JWT, OAuth 2.0, Session Based Auth. 
+
+Session-Based Auth. in API Design 
+____________________________________
+Application Programming Interfaces (APIs) are critical for building software applications. Among several key considerations during API design, one is deciding how to implement authentication and security. Session Based Authentication is one popular way to apply security in API design.
+
+This method revolves around the server creating a session for the user after they successfully log in, associating it with a session identifier. This Session ID is then stored client-side within a cookie. On subsequent requests, the server validates the Session ID before processing the API call. The server will destroy the session after the user logs out, thereby invalidating the Session ID.
+
+Authorization Methods in API Design
+___________________________________________
+In API design, authorization methods play a crucial role in ensuring the security and integrity of data transactions. They are the mechanisms through which an API identifies and validates a user, system, or application before granting them access to specific resources. These methods include Basic Authentication, OAuth, Token-based authentication, JSON Web Tokens (JWT), and API Key based, among others. So, understanding these methods enhances the ability to design APIs that effectively protect resources while allowing necessary access.
+
+Article: https://konghq.com/blog/engineering/common-api-authentication-methods
+
+
+
+
+
