@@ -170,7 +170,25 @@ In API design, authorization methods play a crucial role in ensuring the securit
 
 Article: https://konghq.com/blog/engineering/common-api-authentication-methods
 
+Authorization Methods are: Role Based Access Control (RBAC ) and Attribute Based Access Control ( ABAC ) 
+* Role-Based access Control
+_____________________________
 
+Role-Based Access Control (RBAC) is a method of managing authorization in API design that assigns system access to users based on their role within an organization. RBAC is crucial in controlling which endpoints a user can call, and what operations they are allowed to execute. In the context of API design, RBAC ensures appropriate levels of access for different types of users to guarantee data security and integrity. It simplifies the process of security administration by assigning privileges based on a user’s job function, rather than on an individual basis.
+
+* Attribute Based Access Control 
+_____________________________________
+Attribute Based Access Control (ABAC) is a flexible and powerful authorization method in the realm of API Design. Distinct from Role-Based Access Control (RBAC), which relies on predefined roles and permissions, ABAC uses attributes to build policies and make decisions. These attributes can be associated with the user, the action they want to perform, targeted resources, or the environment. 
+
+
+API Keys and Management
+___________________________
+API keys and management is an integral part of API design. An API key is a unique identifier used to authenticate a user, developer, or calling program to an API. This ensures security and control over API endpoints, as only those with a valid API key can make requests. 
+API Management, on the other hand, refers to the practices and tools that enable an organization to govern and monitor its API usage. It involves all the aspects of managing APIs including design, deployment, documentation, security, versioning, and analytics. 
+
+API Documentation Tools
+___________________________________
+API Documentation Tools are instrumental in conveying the intricacies of API design to both technical developers and non-technical stakeholders. These tools help in creating comprehensive, easy-to-understand, and searchable documentation encompassing all the elements of an API such as its functions, classes, return types, arguments, and more.
 
 
 
