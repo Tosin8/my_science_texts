@@ -235,3 +235,6 @@ The performance is crucial to define and monitor the set of the metrics, which i
 * Throughput
 * Error Rates
 * and Other measure system health and resource utilization. 
+
+Caching Strategies
+_____________________________
