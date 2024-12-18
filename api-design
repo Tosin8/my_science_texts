@@ -227,4 +227,6 @@ LOAD TESTING IN API DESIGN
 __________________________________
 Load testing is a crucial aspect of API design that ensures reliability, efficiency and performance under varying loads. It primarily focuses on identifying the maximum capacity of the API in terms of the volume of requests it can handle and its subsequent behaviour when this threshold is reached or overloaded.
 
+Performance Metrics
+___________________________________
 
