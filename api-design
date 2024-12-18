@@ -230,3 +230,8 @@ Load testing is a crucial aspect of API design that ensures reliability, efficie
 Performance Metrics
 ___________________________________
 
+The performance is crucial to define and monitor the set of the metrics, which includes the 
+* Response Time
+* Throughput
+* Error Rates
+* and Other measure system health and resource utilization. 
