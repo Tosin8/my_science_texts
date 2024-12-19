@@ -259,3 +259,4 @@ Error handling can refer to validating inputs, managing exceptions, and returnin
 
 API integration Pattern 
 __________________________
+* Synchronous vs Asynchronous APIs
