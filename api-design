@@ -246,3 +246,8 @@ Loading Balancing
 ____________________________-
 Load Balancing plays a crucial role in the domain of API design - primarily revolves around evenly and efficiently distributing network traffic across a group of backend servers, with the intention  of no single server bears too much demand. 
 This allows for high availability and reliability by rerouting the traffic in case of server failure, effectively enhancing application performance and contributing to a positive user experience. 
+
+Rate Limiting / Throttling 
+_________________________________
+Rate Limiting, often referred to as Throttling, is a fundamental aspect of API Design aimed at controlling the number of requests a client can make to an API within a specified timeframe. This technique ensures fair usage, enhances security, prevents server overload, and allows an even distribution of resources. It also minimizes the risks associated with abusive behaviors or DDoS attacks. 
+
