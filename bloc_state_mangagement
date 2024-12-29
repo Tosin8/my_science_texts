@@ -1,2 +1,9 @@
 Bloc State Managements
 
+It consists of 3 core values : 
+- Simple: Easy to understand & can be used by developers with varying skill levels.
+- Powerful : Help make amazing, complex applications by composing them of smaller components.
+- Testable: Easily test every aspect of an application so that we can iterate with confidence.
+
+Bloc Concepts. 
+_____________________________
