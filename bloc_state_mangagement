@@ -7,3 +7,6 @@ It consists of 3 core values :
 
 Bloc Concepts. 
 _____________________________
+ * Streams : A stream is a sequence of asynchronous data.
+
+In order to use the bloc library, it is critical to have a basic understanding of Streams and how they work.
