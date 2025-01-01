@@ -11,7 +11,7 @@ _____________________________
 
 In order to use the bloc library, it is critical to have a basic understanding of Streams and how they work.
 We can create a Stream in Dart by writing an async* (async generator) function.
-Every time we yield in an async* function we are pushing that piece of data through the Stream.
+Every time we 'yield' in an async* function we are pushing that piece of data through the Stream.
 
 
 2. Cubit
