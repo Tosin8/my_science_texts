@@ -14,9 +14,37 @@ We can create a Stream in Dart by writing an async* (async generator) function.
 - Every time we use the keyword 'yield' in an 'async*' function we are pushing that piece of data through the Stream.
 - Every time we use the keyword 'await' in a 'async' function and return a 'Future'
 
-Asynchronous Programming: Streams
+
+In Programming: 
+* Asynchronous - tasks can be executed concurrently without waiting for previous tasks to finish, allowing for parallel processing. 
+* Synchronous - tasks are executed sequentially - one after the other, where each task must complete before the next one starts. 
+
+Key Differences:
+Execution Flow:
+Asynchronous tasks can run independently and potentially overlap, while synchronous tasks run in a strict sequence. 
+Performance:
+Asynchronous programming is often faster for operations involving network requests or I/O operations because the program can continue executing while waiting for responses. 
+Complexity:
+Synchronous programming is generally considered easier to understand and debug due to its linear nature, while asynchronous programming can be more complex with the need to manage callbacks or promises to handle results when tasks finish. 
+
+When to use which: 
+Synchronous:
+Use for simple tasks where order of execution is crucial, like basic calculations or small operations within a single function. 
+Asynchronous:
+Use for operations that involve network requests, database queries, file I/O, or any situation where waiting for a response shouldn't block the main program flow. 
+Examples: 
+Synchronous: Checking if a user is logged in before displaying their profile details. 
+Asynchronous: Fetching data from a remote server while simultaneously updating the user interface with loading indicator
+Asynchronous Programming: Streams. 
+
+
 _________________________________________
 It is characterized by the 'Future' and 'Stream' classes. 
+
+A Future : it represents a computation that doesn't complete immediately. The future tells when the result is ready. 
+A Stream: is a sequence of asynchronous event
+
+Iterable: it is a collection of elements that can be accessed sequentially. 
 
 2. Cubit
 A Cubit is a class which extends BlocBase and can be extended to manage any type of state.
