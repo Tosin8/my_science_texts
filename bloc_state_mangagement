@@ -48,5 +48,6 @@ Iterable: it is a collection of elements that can be accessed sequentially.
 
 2. Cubit
 A Cubit is a class which extends BlocBase and can be extended to manage any type of state.
+Staes are the outputs of the Cubit and represent a part of the application state. 
 A Cubit can expose functions which can be invoked to trigger states changes. 
 Note the following: States are the output of a CUBIT and they represent a part of the application's state. 
