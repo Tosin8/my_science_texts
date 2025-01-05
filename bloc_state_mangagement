@@ -54,6 +54,8 @@ Note the following: States are the output of a CUBIT and they represent a part o
 
 Flutter Bloc Concepts
 _______________________
+Bloc Widgets
+* BlocBuilder 
 
 
 
